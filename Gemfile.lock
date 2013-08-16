@@ -36,9 +36,6 @@ GEM
       em-websocket (>= 0.5.0)
       guard (>= 1.8.0)
       multi_json (~> 1.7)
-    guard-sass (1.2.0)
-      guard (>= 1.1.0)
-      sass (>= 3.1)
     guard-shell (0.5.1)
       guard (>= 1.1.0)
     http_parser.rb (0.5.3)
@@ -69,5 +66,4 @@ DEPENDENCIES
   guard-coffeescript
   guard-compass
   guard-livereload
-  guard-sass
   guard-shell
